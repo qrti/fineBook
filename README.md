@@ -90,15 +90,15 @@ easy to follow up reading with some additional clicks only
 
 ###**menu items**
 
-> - ![update][update] **update**
+>![update][update] **update**
 >   stores current url, position, selection
-> - ![restore][restore] **restore**
+> ![restore][restore] **restore**
 >   restores url, position, selection
-> - **fine**
+> **fine**
 >   expands a regular bookmarks, to a *fineBook* mark
-> - **unfine**
+> **unfine**
 >   reverts a *fineBook* mark to a regular bookmark
-> - **about**
+> **about**
 >   opens about panel to check version and make donation
 
 ###**options**
