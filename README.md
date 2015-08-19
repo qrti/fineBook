@@ -85,9 +85,10 @@ opens about panel to check version and make donation
 
 ###**options**
 
-- **auto restore** 
-  activates/deactivates automatic position and selection restore
-- **hints**
+- **auto restore**  
+activates/deactivates automatic position and selection restore
+ 
+- **hints**  
   activates/deactivates hint messages
   error messages are displayed anyway
 
