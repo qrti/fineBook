@@ -1,7 +1,7 @@
 
-![alt text][logo]
+![icon][icon]
 
-[logo]: https://github.com/qrti/fineBook/blob/master/images/icon-128.png "Logo Title Text 2"
+
 
 #**fineBook**
 
@@ -46,7 +46,7 @@ easy to follow up reading with some additional clicks only
 > - right click *firefox* window to open context menu
 > - click menu/fineBook/fine
 
-> **update *fineBook* mark**
+![update][update] > **update *fineBook* mark**
 > 
 > - scroll to arbitrary position in web page 
 > - optionally select unique text in page
@@ -116,3 +116,6 @@ easy to follow up reading with some additional clicks only
 > - some web pages need to activate java script to make *fineBook* work correctly
 
 qrt@qland.de
+
+[icon]: https://github.com/qrti/fineBook/blob/master/images/icon-128.png "icon"
+[update]: https://github.com/qrti/fineBook/blob/master/images/update-64.png "update"
