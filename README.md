@@ -32,9 +32,8 @@ easy to follow up reading with some additional clicks only
 
 ###**addon bar icon**
 
-activate and deactivate *fineBook* by clicking its icon in *firefox* addon bar
-
-the *fineBook* icon in *firefox* addon bar displays the following states
+- activate and deactivate *fineBook* by clicking its icon in *firefox* addon bar
+- the *fineBook* icon in *firefox* addon bar displays the following states
 
 ![active][logo] *fineBook* is active
 
