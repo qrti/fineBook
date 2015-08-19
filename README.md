@@ -90,10 +90,10 @@ easy to follow up reading with some additional clicks only
 
 ###**menu items**
 
-- ![update][update] **update**  
+![update][update] **update**  
 stores current url, position, selection
 
-- ![restore][restore] **restore**
+![restore][restore] **restore**
 restores url, position, selection
 
 
