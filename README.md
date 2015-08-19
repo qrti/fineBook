@@ -99,8 +99,8 @@ opens about panel to check version and make donation
 **installation**
 
 - install *fineBook*
-- if you do not see the *fineBook* icon in toolbar
-  right click toolbar/customize
+- if you do not see the *fineBook* icon in toolbar  
+  right click toolbar/customize  
   draw *fineBook* icon to toolbar
 
 **prepare bookmark for use with *fineBook***
