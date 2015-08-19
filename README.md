@@ -1,6 +1,7 @@
-![fineBook icon](https://github.com/qrti/fineBook/blob/master/images/icon-128.png)
 
-<i class="icon-file"></i>
+![alt text][logo]
+
+[logo]: https://github.com/qrti/fineBook/blob/master/images/icon-128.png "Logo Title Text 2"
 
 #**fineBook**
 
