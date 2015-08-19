@@ -97,9 +97,11 @@ stores current url, position, selection
 restores url, position, selection
 
 ![fine][fine] **fine**  
-expands a regular bookmarks, to a *fineBook* mark  
+expands a regular bookmarks, to a *fineBook* mark
+
 ![unfine][unfine] **unfine**  
-reverts a *fineBook* mark to a regular bookmark  
+reverts a *fineBook* mark to a regular bookmark
+
 ![about][about] **about**  
 opens about panel to check version and make donation
 
