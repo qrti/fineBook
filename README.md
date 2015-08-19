@@ -40,9 +40,9 @@ the *fineBook* icon in *firefox* addon bar displays the following states
 
 ![deactivated][logoff] *fineBook* is deactivated
 
-![isfine][logo] current tab is a *fineBook* mark
+![isfine][logo] current page has a *fineBook* mark
 
-![isnofine][logoff] current tab is not a *fineBook* mark
+![isnofine][logonf] current page has not a *fineBook* mark
 
 ![warning][logowa] warnings
 
