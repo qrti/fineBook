@@ -90,10 +90,12 @@ easy to follow up reading with some additional clicks only
 
 ###**menu items**
 
->![update][update] **update**
->   stores current url, position, selection
-> ![restore][restore] **restore**
->   restores url, position, selection
+![update][update] **update**
+stores current url, position, selection
+![restore][restore] **restore**
+ restores url, position, selection
+
+
 > **fine**
 >   expands a regular bookmarks, to a *fineBook* mark
 > **unfine**
