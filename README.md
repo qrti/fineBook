@@ -96,10 +96,11 @@ activates/deactivates automatic position and selection restore
 ###**test drive**
 
 **installation**
+
 - install *fineBook*
 - if you do not see the *fineBook* icon in toolbar
   right click toolbar/customize
-   draw *fineBook* icon to toolbar
+  draw *fineBook* icon to toolbar
 
 **prepare bookmark for use with *fineBook***
  
