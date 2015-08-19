@@ -24,7 +24,8 @@ to find the position you stopped reading at your last session
 *fineBook* allows to restore your reading position and makes it
 easy to follow up reading with some additional clicks only
 
-**version 1.00**
+###**version 1.00**
+
 - reworked ui and logic
 - completely context menu driven
 - using current *jpm* framework
@@ -86,7 +87,7 @@ opens about panel to check version and make donation
 ###**options**
 
 - **auto restore**  
-activates/deactivates automatic position and selection restore
+  activates/deactivates automatic position and selection restore
  
 - **hints**  
   activates/deactivates hint messages
@@ -112,8 +113,8 @@ activates/deactivates automatic position and selection restore
 
 - scroll to arbitrary position in web page 
 - optionally select unique text in page
-- click menu/fineBook/update
-  url, position and selection is stored with bookmark
+- click menu/fineBook/update  
+  url, position and selection is stored with bookmark  
   bookmark title is not changed
 
 **continue browsing**
