@@ -46,7 +46,7 @@ easy to follow up reading with some additional clicks only
 > - right click *firefox* window to open context menu
 > - click menu/fineBook/fine
 
-![update][update777] 
+![update][update] 
 > **update *fineBook* mark**
 > 
 > - scroll to arbitrary position in web page 
@@ -119,4 +119,4 @@ easy to follow up reading with some additional clicks only
 qrt@qland.de
 
 [icon]: https://github.com/qrti/fineBook/blob/master/images/icon-128.png "icon"
-[update]: https://github.com/qrti/fineBook/blob/master/images/update-641.png "update888"
+[update]: https://github.com/qrti/fineBook/blob/master/images/update-64.png
