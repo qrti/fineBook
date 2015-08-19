@@ -1,6 +1,6 @@
 ![fineBook icon](https://github.com/qrti/fineBook/blob/master/images/icon-128.png)
 
-
+<i class="icon-file"></i>
 
 #**fineBook**
 
