@@ -46,7 +46,7 @@ easy to follow up reading with some additional clicks only
 > - right click *firefox* window to open context menu
 > - click menu/fineBook/fine
 
-![update][update] 
+![update][update] **update *fineBook* mark**
 > **update *fineBook* mark**
 > 
 > - scroll to arbitrary position in web page 
