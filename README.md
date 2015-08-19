@@ -1,3 +1,7 @@
+![fineBook icon](https://github.com/qrti/fineBook/blob/master/images/icon-128.png)
+
+
+
 #**fineBook**
 
 V1.00 by http://qland.de
