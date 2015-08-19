@@ -47,7 +47,7 @@ easy to follow up reading with some additional clicks only
 > - click menu/fineBook/fine
 
 
->![update][update] **update *fineBook* mark**
+> **update *fineBook* mark**
 > 
 > - scroll to arbitrary position in web page 
 > - optionally select unique text in page
@@ -90,9 +90,9 @@ easy to follow up reading with some additional clicks only
 
 ###**menu items**
 
-> - **update**
+> - ![update][update] **update**
 >   stores current url, position, selection
-> - **restore**
+> - ![restore][restore] **restore**
 >   restores url, position, selection
 > - **fine**
 >   expands a regular bookmarks, to a *fineBook* mark
@@ -120,3 +120,4 @@ qrt@qland.de
 
 [icon]: https://github.com/qrti/fineBook/blob/master/images/icon-128.png "icon"
 [update]: https://github.com/qrti/fineBook/blob/master/images/update-32.png "update"
+[restore]: https://github.com/qrti/fineBook/blob/master/images/restore-32.png "restore"
