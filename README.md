@@ -32,14 +32,22 @@ easy to follow up reading with some additional clicks only
 
 ###**addon bar icon**
 
-> - activate and deactivate *fineBook* by clicking its icon in *firefox* addon bar
-> - the *fineBook* icon in *firefox* addon bar displays the following states
-> *fineBook* active
-> *fineBook* deactivated
-> current tab is a *fineBook* mark
-> current tab is not a *fineBook* mark
-> warnings
-> errors
+activate and deactivate *fineBook* by clicking its icon in *firefox* addon bar
+
+the *fineBook* icon in *firefox* addon bar displays the following states
+
+![active][logo] *fineBook* is active
+
+![deactivated][logoff] *fineBook* is deactivated
+
+![isfine][logo] current tab is a *fineBook* mark
+
+![isnofine][logoff] current tab is not a *fineBook* mark
+
+![warning][logowa] warnings
+
+![errors][logoex] errors
+
 
 ###**menu items**
 
@@ -55,7 +63,7 @@ expands a regular bookmarks, to a *fineBook* mark
 ![unfine][unfine] **unfine**  
 reverts a *fineBook* mark to a regular bookmark
 
-![about][about] **about**  
+![about][logo] **about**  
 opens about panel to check version and make donation
 
 
@@ -124,8 +132,13 @@ opens about panel to check version and make donation
 qrt@qland.de
 
 [icon]: https://github.com/qrti/fineBook/blob/master/images/icon-128.png "icon"
+[logo]: https://github.com/qrti/fineBook/blob/master/images/logo-32.png "logo"
+[logoff]: https://github.com/qrti/fineBook/blob/master/images/logoff-32.png "off"
+[logonf]: https://github.com/qrti/fineBook/blob/master/images/logonf-32.png "no fine"
+[logowa]: https://github.com/qrti/fineBook/blob/master/images/logowa-32.png "warning"
+[logoex]: https://github.com/qrti/fineBook/blob/master/images/logoex-32.png "error"
+
 [update]: https://github.com/qrti/fineBook/blob/master/images/update-32.png "update"
 [restore]: https://github.com/qrti/fineBook/blob/master/images/restore-32.png "restore"
 [fine]: https://github.com/qrti/fineBook/blob/master/images/fine-32.png "fine"
 [unfine]: https://github.com/qrti/fineBook/blob/master/images/unfine-32.png "unfine"
-[about]: https://github.com/qrti/fineBook/blob/master/images/logo-32.png "about"
