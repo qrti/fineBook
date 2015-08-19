@@ -90,19 +90,18 @@ easy to follow up reading with some additional clicks only
 
 ###**menu items**
 
-![update][update] **update** 
+![update][update] **update**  
 stores current url, position, selection
 
-![restore][restore] **restore**
+![restore][restore] **restore**  
 restores url, position, selection
 
-
-> **fine**
->   expands a regular bookmarks, to a *fineBook* mark
-> **unfine**
->   reverts a *fineBook* mark to a regular bookmark
-> **about**
->   opens about panel to check version and make donation
+![fine][fine] **fine**  
+expands a regular bookmarks, to a *fineBook* mark
+![unfine][unfine] **unfine**  
+reverts a *fineBook* mark to a regular bookmark
+![about][about] **about**  
+opens about panel to check version and make donation
 
 ###**options**
 
@@ -124,3 +123,6 @@ qrt@qland.de
 [icon]: https://github.com/qrti/fineBook/blob/master/images/icon-128.png "icon"
 [update]: https://github.com/qrti/fineBook/blob/master/images/update-32.png "update"
 [restore]: https://github.com/qrti/fineBook/blob/master/images/restore-32.png "restore"
+[fine]: https://github.com/qrti/fineBook/blob/master/images/fine-32.png "fine"
+[unfine]: https://github.com/qrti/fineBook/blob/master/images/unfine-32.png "unfine"
+[about]: https://github.com/qrti/fineBook/blob/master/images/logo-32.png "about"
