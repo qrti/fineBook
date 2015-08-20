@@ -67,6 +67,16 @@ reverts a *fineBook* mark to a regular bookmark
 opens about panel to check version and make donation
 
 
+###**options**
+
+- **auto restore**  
+  activates/deactivates automatic position and selection restore
+ 
+- **hints**  
+  activates/deactivates hint messages  
+  error messages are displayed anyway
+
+
 ###**tips**
 
 - select date and time of forum posts to find last reading position
@@ -82,19 +92,10 @@ opens about panel to check version and make donation
 - restore is done after page has loaded completely  
   this might last a while on pages with external content like ads, images etc.
 - further clicks on update button will search for further occurrence of selection
-- to revert *fineBook* marks to regular bookmarks click menu/fineBook/unfine
+- to revert *fineBook* marks to regular bookmarks  
+  click menu/fineBook/unfine
 - status messages are displayed near the tray bar of the desktop
 - deactivate options/hints to reduce status messages
-
-
-###**options**
-
-- **auto restore**  
-  activates/deactivates automatic position and selection restore
- 
-- **hints**  
-  activates/deactivates hint messages  
-  error messages are displayed anyway
 
 
 ###**test drive**
