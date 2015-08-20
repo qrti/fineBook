@@ -12,8 +12,8 @@ expands *firefox* bookmark ability by restoring page position and selection
 - especially useful for following forum threads
 - also usable as software version tracker
 
-if a regular bookmark is created a title and url are stored,
-invoking it fetches a page corresponding the saved url,
+if a regular bookmark is created a title and url are stored,  
+invoking it fetches a page corresponding the saved url,  
 thereby the page is always displayed from top
 
 imagine following a thread with some ten posts a day,
