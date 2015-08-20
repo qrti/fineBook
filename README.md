@@ -16,9 +16,9 @@ if a regular bookmark is created a title and url are stored,
 invoking it fetches a page corresponding the saved url,  
 thereby the page is always displayed from top
 
-imagine following a thread with some ten posts a day,
-so if you resume reading after some days the thread will
-have lots of new posts and pages and it might be difficult
+imagine following a thread with some ten posts a day,  
+so if you resume reading after some days the thread will  
+have lots of new posts and pages and it might be difficult  
 to find the position you stopped reading at your last session
 
 *fineBook* allows to restore your reading position and makes it
