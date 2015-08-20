@@ -75,7 +75,8 @@ opens about panel to check version and make donation
   first occurrence is restored  
   wrong page position might be restored
 - if no selection is made only position is stored
-- if page position or selection isn't restored correctly click bookmark again
+- if page position or selection isn't restored correctly  
+  click bookmark again
   or refresh page by pressing F5  
   or click refresh symbol in browser url field
 - restore is done after page has loaded completely
