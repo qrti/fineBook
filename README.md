@@ -79,7 +79,7 @@ opens about panel to check version and make donation
   click bookmark again
   or refresh page by pressing F5  
   or click refresh symbol in browser url field
-- restore is done after page has loaded completely
+- restore is done after page has loaded completely  
   this might last a while on pages with external content like ads, images etc.
 - further clicks on update button will search for further occurrence of selection
 - to revert *fineBook* marks to regular bookmarks click menu/fineBook/unfine
