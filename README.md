@@ -36,36 +36,36 @@ easy to follow up reading with some additional clicks only
 - activate and deactivate *fineBook* by clicking its icon in *firefox* addon bar
 - the *fineBook* icon in *firefox* addon bar displays the following states
 
-![on][logo_on] *fineBook* is active
+![on][on] *fineBook* is active
 
-![off][logo_off] *fineBook* is deactivated
+![off][off] *fineBook* is deactivated
 
-![fine][logo_on] current page has a *fineBook* mark
+![fine][on] current page has a *fineBook* mark
 
-![nofine][logo_nofine] current page has not a *fineBook* mark
+![nofine][nofine] current page has not a *fineBook* mark
 
-![done][logo_done] last action successfully done
+![done][done] last action successfully done
 
-![warning][logo_warning] warnings
+![warning][warning] warnings
 
-![errors][logo_exclame] errors
+![errors][exclame] errors
 
 
 ###**menu items**
 
-![update][menu_update] **update**  
+![update][update] **update**  
 stores current url, position, selection
 
-![restore][menu_restore] **restore**  
+![restore][restore] **restore**  
 restores url, position, selection
 
-![fine][menu_fine] **fine**  
+![fine][fine] **fine**  
 expands a regular bookmarks, to a *fineBook* mark
 
-![unfine][menu_unfine] **unfine**  
+![unfine][unfine] **unfine**  
 reverts a *fineBook* mark to a regular bookmark
 
-![about][menu_about] **about**  
+![about][about] **about**  
 opens about panel to check version and make donation
 
 
@@ -139,15 +139,15 @@ opens about panel to check version and make donation
 qrt@qland.de
 
 [icon]: https://github.com/qrti/fineBook/blob/master/images/icon-128.png "icon"
-[logo_on]: https://github.com/qrti/fineBook/blob/master/images/logo_on-32.png "on"
-[logo_off]: https://github.com/qrti/fineBook/blob/master/images/logo_off-32.png "off"
-[logo_nofine]: https://github.com/qrti/fineBook/blob/master/images/logo_nofine-32.png "no fine"
-[logo_done]: https://github.com/qrti/fineBook/blob/master/images/logo_done-32.png "done"
-[logo_warning]: https://github.com/qrti/fineBook/blob/master/images/logo_warning-32.png "warning"
-[logo_exclame]: https://github.com/qrti/fineBook/blob/master/images/logo_exclame-32.png "error"
+[on]: https://github.com/qrti/fineBook/blob/master/images/logo_on-32.png "on"
+[off]: https://github.com/qrti/fineBook/blob/master/images/logo_off-32.png "off"
+[nofine]: https://github.com/qrti/fineBook/blob/master/images/logo_nofine-32.png "no fine"
+[done]: https://github.com/qrti/fineBook/blob/master/images/logo_done-32.png "done"
+[warning]: https://github.com/qrti/fineBook/blob/master/images/logo_warning-32.png "warning"
+[exclame]: https://github.com/qrti/fineBook/blob/master/images/logo_exclame-32.png "error"
 
-[menu_update]: https://github.com/qrti/fineBook/blob/master/images/menu_update-32.png "update"
-[menu_restore]: https://github.com/qrti/fineBook/blob/master/images/menu_restore-32.png "restore"
-[menu_fine]: https://github.com/qrti/fineBook/blob/master/images/menu_fine-32.png "fine"
-[menu_unfine]: https://github.com/qrti/fineBook/blob/master/images/menu_unfine-32.png "unfine"
-[menu_about]: https://github.com/qrti/fineBook/blob/master/images/menu_unfine-32.png "unfine"
+[update]: https://github.com/qrti/fineBook/blob/master/images/menu_update-32.png "update"
+[restore]: https://github.com/qrti/fineBook/blob/master/images/menu_restore-32.png "restore"
+[fine]: https://github.com/qrti/fineBook/blob/master/images/menu_fine-32.png "fine"
+[unfine]: https://github.com/qrti/fineBook/blob/master/images/menu_unfine-32.png "unfine"
+[about]: https://github.com/qrti/fineBook/blob/master/images/menu_about-32.png "about"
