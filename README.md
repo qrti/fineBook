@@ -6,7 +6,7 @@
 V1.00 by http://qland.de
 finer bookmarks
 
-expands *firefox* bookmark ability by page position and selection
+expands *firefox* bookmark ability by restoring page position and selection
 
 - save and restore reading positions and small selections in web pages
 - especially useful for following forum threads
@@ -71,17 +71,19 @@ opens about panel to check version and make donation
 
 - select date and time of forum posts to find last reading position
 - select version or release date to keep track of favorite software
-- if selection is not unique on page
-  first occurrence is restored
+- if selection is not unique on page  
+  first occurrence is restored  
   wrong page position might be restored
 - if no selection is made only position is stored
-- if page position or selection isn't restored correctly click bookmark again or refresh page by pressing F5 or circle symbol in browser url field
+- if page position or selection isn't restored correctly click bookmark again
+  or refresh page by pressing F5  
+  or click refresh symbol in browser url field
 - restore is done after page has loaded completely
-  this might last a while on pages with external content like ads, images   etc.
+  this might last a while on pages with external content like ads, images etc.
 - further clicks on update button will search for further occurrence of selection
-- to restore *fineBook* marks to regular bookmarks click menu/fineBook/unfine
+- to revert *fineBook* marks to regular bookmarks click menu/fineBook/unfine
 - status messages are displayed near the tray bar of the desktop
-- deactivate menu/fineBook/settings/hints to reduce status messages
+- deactivate options/hints to reduce status messages
 
 
 ###**options**
@@ -112,10 +114,10 @@ opens about panel to check version and make donation
 **update *fineBook* mark**
 
 - scroll to arbitrary position in web page 
-- optionally select unique text in page
+- optionally select some (unique) text in page
 - click menu/fineBook/update  
   url, position and selection is stored with bookmark  
-  bookmark title is not changed
+  title of bookmark is not changed
 
 **continue browsing**
 
