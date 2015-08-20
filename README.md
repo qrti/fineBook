@@ -21,7 +21,7 @@ so if you resume reading after some days the thread will
 have lots of new posts and pages and it might be difficult  
 to find the position you stopped reading at your last session
 
-*fineBook* allows to restore your reading position and makes it
+*fineBook* allows to restore your reading position and makes it  
 easy to follow up reading with some additional clicks only
 
 ###**version 1.00**
