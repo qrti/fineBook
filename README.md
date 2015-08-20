@@ -125,8 +125,8 @@ opens about panel to check version and make donation
 
 **continue browsing**
 
-- if you visit bookmark later
-- url, position and selection is restored
+- if you visit bookmark later  
+  url, position and selection is restored
 
 
 ###**restrictions**
