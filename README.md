@@ -44,7 +44,7 @@ easy to follow up reading with some additional clicks only
 
 ![nofine][nofine] current page has not a *fineBook* mark
 
-![done][done] last action successfully done
+![done][done] last action successfully finished
 
 ![warning][warning] warnings
 
