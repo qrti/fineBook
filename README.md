@@ -93,7 +93,7 @@ opens about panel to check version and make donation
   activates/deactivates automatic position and selection restore
  
 - **hints**  
-  activates/deactivates hint messages
+  activates/deactivates hint messages  
   error messages are displayed anyway
 
 
