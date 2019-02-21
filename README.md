@@ -1,6 +1,6 @@
 ![icon][icon] 
 
-#**fineBook**
+# **fineBook**
 
 
 V1.00 by http://qland.de
@@ -24,14 +24,14 @@ to find the position you stopped reading at your last session
 *fineBook* allows to restore your reading position and makes it  
 easy to follow up reading with some additional clicks only
 
-###**version 1.00**
+### **version 1.00**
 
 - reworked ui and logic
 - completely context menu driven
 - using current *jpm* framework
 
 
-###**addon bar icon**
+### **addon bar icon**
 
 - activate and deactivate *fineBook* by clicking its icon in *firefox* addon bar
 - the *fineBook* icon in *firefox* addon bar mirrors the following states  
@@ -52,7 +52,7 @@ easy to follow up reading with some additional clicks only
 ![errors][exclame] errors
 
 
-###**menu items**
+### **menu items**
 
 ![update][update] **update**  
 stores current url, position, selection
@@ -70,7 +70,7 @@ reverts a *fineBook* mark to a regular bookmark
 opens about panel to check version and make donation
 
 
-###**options**
+### **options**
 
 - **auto restore**  
   activates/deactivates automatic position and selection restore
@@ -80,7 +80,7 @@ opens about panel to check version and make donation
   error messages are displayed anyway
 
 
-###**tips**
+### **tips**
 
 - select date and time of forum posts to find last reading position
 - select version or release date to keep track of favorite software
@@ -101,7 +101,7 @@ opens about panel to check version and make donation
 - deactivate options/hints to reduce status messages
 
 
-###**test drive**
+### **test drive**
 
 **installation**
 
@@ -130,7 +130,7 @@ opens about panel to check version and make donation
   url, position and selection is restored
 
 
-###**restrictions**
+### **restrictions**
 
 - uses bookmark keyword for selection text and position storing
 - selection restore is limited to 30 characters
